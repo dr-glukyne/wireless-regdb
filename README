@@ -1,3 +1,13 @@
+ CHANGES TO ORIGINAL WIRELESS-REGDB
+====================================
+
+1) RU regdomain
+2) CN regdomain - workaround for TP-Link TL-WN722N and other wireless
+adapters with flashed in country code.
+
+ ABOUT
+=======
+
 This repository contains the plain text version of the regulatory
 database file I maintain for use with Central Regulatory Database
 Agent daemon.  Also included is the compiled binary version of this
